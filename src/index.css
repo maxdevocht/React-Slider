@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.slider {
+  margin: 2rem 3rem;
+  border-radius: 5px;
+}
+
+.splide {
+  border: 1px solid black;
+  background: rgb(58, 58, 58);
+  border-radius: 10px;
+  margin: 2rem;
+}
