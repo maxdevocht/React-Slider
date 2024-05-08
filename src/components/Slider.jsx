@@ -25,7 +25,7 @@ export default function Slider() {
                         <img src="/3.svg" alt="Image 3"/>
                     </SplideSlide>
                 </SplideTrack>
-
+                
         </Splide>
     )
 }
